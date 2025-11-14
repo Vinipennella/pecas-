@@ -1,0 +1,25 @@
+{
+  "inventoryId": "PART-INV-2025-01",
+  "plant": "Fábrica Porto Real - Linha de Usinagem 3",
+  "totalParts": 3,
+  "parts": [
+    {
+      "partId": "PIN-16F-2024",
+      "description": "Pino do Pistão 1.6 Flex",
+      "stock": 1580,
+      "status": "OK"
+    },
+    {
+      "partId": "VLV-20T-2024",
+      "description": "Válvula Termostática 2.0 Turbo",
+      "stock": 320,
+      "status": "Abaixo do mínimo"
+    },
+    {
+      "partId": "COR-ALT-01",
+      "description": "Correia do Alternador",
+      "stock": 870,
+      "status": "OK"
+    }
+  ]
+}
